@@ -1,0 +1,3 @@
+[submodule "leancourse"]
+	path = leancourse
+	url = https://github.com/PatrickKinnear/leancourse
